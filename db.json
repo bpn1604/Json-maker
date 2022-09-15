@@ -1,35 +1,15 @@
 {
-  "posts" :[
+  "users" :[
     {
       "id" :1,
-      "name" : "bipin",
-      "email" : "bipinmisra1642gmil.com"
+      "name" : "bipin kumar",
+      "age" : 25,
+      "place" : "darbhanga",
+      "batch_name" : "WEB16",
+      "profession" : "FSD"
 
-    },
-    {
-      "id" : 2,
-      "name" : "something",
-      "email" :"hello@"
-    },
-    {
-      "id" : 3,
-      "name" : "anyhitng",
-      "email" :"hello@anuthing"
-    },
-    {
-      "id" : 4,
-      "name" : "asd",
-      "email" :"hello@asd"
-    },
-    {
-      "id" : 5,
-      "name" : "asdfg",
-      "email" :"asdfs@anuthing"
-    },
-    {
-      "id" : 6,
-      "name" : "asdfgsas",
-      "email" :"asdfs@anuthing"
     }
+    
+    
   ]
 }
