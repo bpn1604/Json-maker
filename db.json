@@ -44,6 +44,42 @@
       "kms": 50000,
       "Description": "Marutui  suzuki with all original documents",
       "Price": 70000
+    },
+    {
+      "id": 6,
+      "brand": "Maruti",
+      "year": 2020,
+			"type":"Manual",
+      "kms": 500,
+      "Description": "Marutui  suzuki with all original documents",
+      "Price": 700
+    },
+    {
+      "id": 7,
+      "brand": "Maruti",
+      "year": 2020,
+			"type":"Manual",
+      "kms": 1000,
+      "Description": "Marutui  suzuki with all original documents",
+      "Price": 1700
+    },
+    {
+      "id": 8,
+      "brand": "Tata",
+      "year": 2020,
+			"type":"Manual",
+      "kms": 7000,
+      "Description": "Marutui  suzuki with all original documents",
+      "Price": 17700
+    },
+    {
+      "id": 9,
+      "brand": "Mahindra",
+      "year": 2019,
+			"type":"Manual",
+      "kms": 1000,
+      "Description": "Mahindra  with all original documents",
+      "Price": 7000
     }
   ],
 "wishlisted_cars": [
