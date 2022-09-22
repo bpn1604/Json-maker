@@ -1,96 +1,38 @@
 {
-  "cars": [
+  "hotel": [
     {
-      "id": 1,
-      "brand": "Tata",
-      "year": 2019,
-			"type":"Manual",
-      "kms": 10000,
-      "Description": "Tata Altroz with all original documents",
-      "Price": 500000
+      "id" :1,
+      "category": "family",
+      "image_url": "",
+      "type_of_room": "AC",
+      "bed_type": "single",
+      "no_of_persons":1,
+      "capacity":3,
+      "cost":1900,
+      "booked":false
     },
     {
-      "id": 2,
-      "brand": "Tata",
-			"type":"AMT",
-      "year": 2017,
-      "kms": 8000,
-      "Description": "Tata Nexon with all original documents",
-      "Price": 800000
+      "id" :2,
+      "category": "deluxe",
+      "image_url": "",
+      "type_of_room": "non-AC",
+      "bed_type": "double",
+      "no_of_persons":2,
+      "capacity":4,
+      "cost":2900,
+      "booked":false
     },
     {
-      "id": 3,
-      "brand": "Mahindra",
-      "year": 2019,
-			"type":"Manual",
-      "kms": 10000,
-      "Description": "Mahindra  with all original documents",
-      "Price": 700000
-    },
-    {
-      "id": 4,
-      "brand": "Mahindra",
-      "year": 2019,
-			"type":"Manual",
-      "kms": 1000,
-      "Description": "Mahindra  with all original documents",
-      "Price": 700000
-    },
-    {
-      "id": 5,
-      "brand": "Maruti",
-      "year": 2020,
-			"type":"Manual",
-      "kms": 50000,
-      "Description": "Marutui  suzuki with all original documents",
-      "Price": 70000
-    },
-    {
-      "id": 6,
-      "brand": "Maruti",
-      "year": 2020,
-			"type":"Manual",
-      "kms": 500,
-      "Description": "Marutui  suzuki with all original documents",
-      "Price": 700
-    },
-    {
-      "id": 7,
-      "brand": "Maruti",
-      "year": 2020,
-			"type":"Manual",
-      "kms": 1000,
-      "Description": "Marutui  suzuki with all original documents",
-      "Price": 1700
-    },
-    {
-      "id": 8,
-      "brand": "Tata",
-      "year": 2020,
-			"type":"Manual",
-      "kms": 7000,
-      "Description": "Marutui  suzuki with all original documents",
-      "Price": 17700
-    },
-    {
-      "id": 9,
-      "brand": "Mahindra",
-      "year": 2019,
-			"type":"Manual",
-      "kms": 1000,
-      "Description": "Mahindra  with all original documents",
-      "Price": 7000
+      "id" :3,
+      "category": "suite",
+      "image_url": "",
+      "type_of_room": "non-AC",
+      "bed_type": "double",
+      "no_of_persons":3,
+      "capacity":6,
+      "cost":3900,
+      "booked":false
     }
-  ],
-"wishlisted_cars": [
-  {
-    "id": 1,
-    "brand": "Tata",
-    "year": 2019,
-    "type": "Manual",
-    "kms": 10000,
-    "Description": "Tata Altroz with all original documents",
-    "Price": 500000
-  }
+    
   ]
 }
